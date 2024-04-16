@@ -9,14 +9,15 @@
 
 ### Step 1:
 Run R&G models for getting auto-annotators. \
-➡️ ./R&G models/
+➡️ ➡️ ./R&G models/
 ### Step 2:
 Refines the auto-annotated data through a selection process. \
-➡️ ./selectors/
+For balancing the data representation in video streams and review the quality of animal instance annotations. \
+➡️ ➡️ ./selectors/
 ### Step 3:
 Manual correction
 ### Our datasets developing by ADE workflow👍
-➡️ ./datasets/ \
+➡️ ➡️ ./datasets/ \
 ❗️The overall procedures and manual work for developing datasets from complex and intense livestock scenarios were significantly reduced by the ADE workflow.
 ![](https://github.com/wuyiqii/Accelerated-Data-Engine/blob/main/datasets/New%20cattle%20datasets%20development%20from%20ADE%20workflow.jpg?raw=true)
    In the ADE workflow, dataset specialists only need to review and correct the crude annotations instead of selecting data, annotating data, and reviewing data quality.  Overall, the manual work in ADE workflow was 30.5 hours, saving ❗️78.4%❗️ of manual work compared to 141 hours using traditional dataset construction workflow.
