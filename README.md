@@ -19,9 +19,7 @@ Manual correction
 ➡️ ./datasets/ \
 ❗️The overall procedures and manual work for developing datasets from complex and intense livestock scenarios were significantly reduced by the ADE workflow.
 ![](https://github.com/wuyiqii/Accelerated-Data-Engine/blob/main/datasets/New%20cattle%20datasets%20development%20from%20ADE%20workflow.jpg?raw=true)
-
-
-
+   In the ADE workflow, dataset specialists only need to review and correct the crude annotations instead of selecting data, annotating data, and reviewing data quality.  Overall, the manual work in ADE workflow was 30.5 hours, saving ❗️78.4%❗️ of manual work compared to 141 hours using traditional dataset construction workflow.
 
 # References
 The demo would not be possible without ❤️ from the community:
