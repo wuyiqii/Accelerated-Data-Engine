@@ -18,6 +18,8 @@ Manual correction
 ### Our datasets developing by ADE workflow👍
 ➡️ ./datasets/ \
 ❗️The overall procedures and manual work for developing datasets from complex and intense livestock scenarios were significantly reduced by the ADE workflow.
+![](https://github.com/wuyiqii/Accelerated-Data-Engine/blob/main/datasets/New%20cattle%20datasets%20development%20from%20ADE%20workflow.jpg?raw=true)
+
 
 
 
