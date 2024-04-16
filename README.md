@@ -9,6 +9,7 @@
 
 ### Step 1:
 Run R&G models for getting auto-annotators. \
+➡️ ➡️https://github.com/wuyiqii/Accelerated-Data-Engine#:~:text=32%20Commits-,R%26G%20models,-Update%20README.md
 ➡️ ➡️ ./R&G models/
 ### Step 2:
 Refines the auto-annotated data through a selection process. \
