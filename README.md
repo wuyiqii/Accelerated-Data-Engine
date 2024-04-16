@@ -10,11 +10,11 @@
 ### Step 1:
 Run R&G models for getting auto-annotators. \
 ➡️ ➡️ [R&G models](https://github.com/wuyiqii/Accelerated-Data-Engine/tree/main/R%26G%20models)
-➡️ ➡️ ./R&G models/
+
 ### Step 2:
 Refines the auto-annotated data through a selection process. \
 For balancing the data representation in video streams and review the quality of animal instance annotations. \
-➡️ ➡️ ./selectors/
+➡️ ➡️ [selectors/]()
 ### Step 3:
 Manual correction
 ### Our datasets developing by ADE workflow👍
