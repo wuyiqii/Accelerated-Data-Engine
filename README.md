@@ -22,6 +22,6 @@ Manual correction
    In the ADE workflow, dataset specialists only need to review and correct the crude annotations instead of selecting data, annotating data, and reviewing data quality.  Overall, the manual work in ADE workflow was 30.5 hours, saving ❗️78.4%❗️ of manual work compared to 141 hours using traditional dataset construction workflow.
 
 # References
-The demo would not be possible without ❤️ from the community:
+Our work would not be possible without ❤️ from the community:
 Grounded Segment Anything: https://github.com/IDEA-Research/Grounded-Segment-Anything
 
