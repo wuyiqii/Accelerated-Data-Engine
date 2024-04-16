@@ -18,7 +18,7 @@ For balancing the data representation in video streams and review the quality of
 ### Step 3:
 Manual correction
 ### Our datasets developing by ADE workflow👍
-➡️ ➡️ [datasets](https://github.com/wuyiqii/Accelerated-Data-Engine/tree/main/datasets) \
+➡️ ➡️ [datasets](https://github.com/wuyiqii/Accelerated-Data-Engine/tree/main/datasets) 
 
 ❗️The overall procedures and manual work for developing datasets from complex and intense livestock scenarios were significantly reduced by the ADE workflow.
 ![](https://github.com/wuyiqii/Accelerated-Data-Engine/blob/main/datasets/New%20cattle%20datasets%20development%20from%20ADE%20workflow.jpg?raw=true)
