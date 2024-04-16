@@ -8,15 +8,15 @@
 # To establish a new dataset quickly:
 
 ### Step 1:
-Run R&G models for getting auto-annotators./
+Run R&G models for getting auto-annotators. \
 ➡️ ./R&G models/
 ### Step 2:
-Refines the auto-annotated data through a selection process./
+Refines the auto-annotated data through a selection process. \
 ➡️ ./selectors/
 ### Step 3:
 Manual correction
 ### Our datasets developing by ADE workflow👍
-➡️ ./datasets/ /
+➡️ ./datasets/ \
 ❗️The overall procedures and manual work for developing datasets from complex and intense livestock scenarios were significantly reduced by the ADE workflow.
 
 
