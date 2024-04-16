@@ -7,3 +7,8 @@ Run R&G models for getting auto-annotators.
 Refines the auto-annotated data through a selection process.
 ## Step 3:
 Manual correction
+
+# References
+The demo would not be possible without ❤️ from the community:
+Grounded Segment Anything: https://github.com/IDEA-Research/Grounded-Segment-Anything
+
