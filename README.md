@@ -24,6 +24,6 @@ Manual correction
 
 # 💘 Acknowledgements
 Our work would not be possible without ❤️ from the community:
-Grounded Segment Anything: https://github.com/IDEA-Research/Grounded-Segment-Anything \
+Grounded Segment Anything: https://github.com/IDEA-Research/Grounded-Segment-Anything 
 
 ### ❤️❤️❤️❤️❤️Thanks to everyone who contributed to the manual corrections in this work！！!❤️❤️❤️❤️❤️
